@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483527237166",
+    "firebase_url": "https://spothole-8fe4a.firebaseio.com",
+    "project_id": "spothole-8fe4a",
+    "storage_bucket": "spothole-8fe4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483527237166:android:d059246b9b046d4d",
+        "android_client_info": {
+          "package_name": "com.fbcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483527237166-ph455kgqvmqub0t2inmft729bs8dm6ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJyqC6K6tcWPavuwBQR-Q-4aQB23Nh7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
